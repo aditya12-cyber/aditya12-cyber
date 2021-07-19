@@ -6,7 +6,7 @@
   
 </div>
 
-<h3 align="center">A passionate frontend developer and Software Developer from India</h3>
+<h3 align="center">'''A passionate frontend developer and Software Developer from India'''</h3>
 
 <div>
   
@@ -39,7 +39,51 @@
 
 ![](git2.PNG)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h4 align="center">And</h4>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya12-cyber&show_icons=true&locale=en&layout=compact" alt="aditya12-cyber" /></p>
+<div align="center">
+
+![](vidgif.gif)
+  
+</div>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<br>
+<p align="Left">
+  <br>
+  <strong>Bash language for Shell Scripting in linux</strong>
+  <br>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <br>
+  <strong>Bootstrap for making frontend development easy</strong>
+  <br>
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <br>
+  <strong>Css means Cascading style cast for styling HTML elements</strong>
+  <br>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <br>
+  <strong>HTML means hyper text markup language for web development</strong>
+  <br>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a>
+  <br>
+  <strong>Javascript for frontend as well as for backend and a i know a few about that language</strong>
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <br>
+  <strong>I know more than a little about linux and i like very much using it ..</strong>
+  <br>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <br>
+  <strong>PHP means HYPERTEXT PRE-PROCESSOR for  both frontend and Backend</strong>
+  <br>
+  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <br>
+  <strong>Python is my favourite language for making tools for linux </strong>
+  <br>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <br>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya12-cyber&show_icons=true&locale=en&layout=compact" alt="aditya12-cyber" /></p>
