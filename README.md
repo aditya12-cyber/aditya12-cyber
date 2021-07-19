@@ -85,5 +85,15 @@
   <br>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   <br>
+ 
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya12-cyber&theme=tokyonight)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya12-cyber&show_icons=true&locale=en&layout=compact" alt="aditya12-cyber" /></p>
+</div>
+  
+<div align="center">
+  
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=aditya12-cyber&show_icons=true&hide_border=true)
+  
+</div>
